@@ -4,9 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
+*.lock.json
 
 # testing
 /coverage
+
+# database
+/db/migrations
 
 # next.js
 /.next/
